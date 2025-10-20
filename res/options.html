@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Quick New Tab Redirect</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+    }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: radial-gradient(circle at top, #f8fbff 0%, #edf3ff 45%, #e4ecff 100%);
+    }
+    .card {
+      width: min(480px, 92vw);
+      padding: 32px 36px;
+      background: #ffffff;
+      border-radius: 18px;
+      box-shadow: 0 18px 35px rgba(33, 56, 102, 0.14);
+    }
+    .header {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 22px;
+    }
+    .header img {
+      width: 44px;
+      height: 44px;
+      border-radius: 12px;
+      border: 1px solid #d7e0f6;
+    }
+    h1 {
+      margin: 0;
+      font-size: 26px;
+      font-weight: 600;
+      color: #1c2a44;
+      letter-spacing: -0.4px;
+    }
+    .subtitle {
+      margin: 6px 0 0;
+      font-size: 15px;
+      color: #50607c;
+    }
+    .field-label {
+      display: block;
+      margin-bottom: 10px;
+      font-weight: 600;
+      color: #1f2f4d;
+    }
+    .input-wrapper {
+      position: relative;
+    }
+    input[type="text"] {
+      width: 100%;
+      padding: 14px;
+      font-size: 15px;
+      border: 1px solid #c8d3eb;
+      border-radius: 10px;
+      box-sizing: border-box;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    input[type="text"]:focus {
+      outline: none;
+      border-color: #4f7aff;
+      box-shadow: 0 0 0 3px rgba(79, 122, 255, 0.18);
+    }
+    .hint {
+      margin: 10px 0 0;
+      font-size: 13px;
+      color: #5c6f92;
+    }
+    .status {
+      display: none;
+      margin-top: 18px;
+      padding: 10px 14px;
+      border-radius: 10px;
+      font-size: 14px;
+      line-height: 1.4;
+    }
+    .status.success {
+      display: block;
+      background-color: #e6f4ea;
+      color: #0b6b3a;
+    }
+    .status.error {
+      display: block;
+      background-color: #fdecea;
+      color: #8b1d1d;
+    }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <div class="header">
+      <img src="../icon_128.png" alt="Quick New Tab Redirect icon" />
+      <div>
+        <h1>Quick New Tab Redirect</h1>
+        <p class="subtitle">Choose exactly where each new tab should land.</p>
+      </div>
+    </div>
+    <label class="field-label" for="redirectURL">Redirect new tab to this URL</label>
+    <div class="input-wrapper">
+      <input type="text" id="redirectURL" placeholder="https://example.com" autocomplete="off" />
+    </div>
+    <p class="hint">Press Enter to save instantly, or click away from the field.</p>
+    <div id="statusMessage" class="status" role="alert" aria-live="polite"></div>
+    <script src="options.js"></script>
+  </main>
+</body>
+</html>

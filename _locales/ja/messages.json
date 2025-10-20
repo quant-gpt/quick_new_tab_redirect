@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "URL アドレス"
+  },
+  "extensionName": {
+    "message": "クイック新しいタブリダイレクト"
+  },
+  "extensionDescription": {
+    "message": "新しいタブページを特定の URL に変更できます。"
+  },
+  "extensionRedirectLabel": {
+    "message": "新しいタブをこの URL にリダイレクト："
+  }
+}

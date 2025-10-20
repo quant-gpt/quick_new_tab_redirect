@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "Adres URL"
+  },
+  "extensionName": {
+    "message": "Szybkie przekierowanie nowej karty"
+  },
+  "extensionDescription": {
+    "message": "Umożliwia zmianę strony nowej karty na określony adres URL."
+  },
+  "extensionRedirectLabel": {
+    "message": "Przekieruj nową kartę na ten URL:"
+  }
+}

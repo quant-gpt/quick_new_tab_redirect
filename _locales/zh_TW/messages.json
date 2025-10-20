@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "網址地址"
+  },
+  "extensionName": {
+    "message": "快速新分頁重新導向"
+  },
+  "extensionDescription": {
+    "message": "允許您將新分頁重定向到指定的URL。"
+  },
+  "extensionRedirectLabel": {
+    "message": "將新分頁重定向到此URL："
+  }
+}

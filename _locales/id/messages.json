@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "Alamat URL"
+  },
+  "extensionName": {
+    "message": "Pengalihan Tab Baru Cepat"
+  },
+  "extensionDescription": {
+    "message": "Memungkinkan Anda mengubah halaman tab baru ke URL tertentu."
+  },
+  "extensionRedirectLabel": {
+    "message": "Alihkan tab baru ke URL ini:"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "Adresse URL"
+  },
+  "extensionName": {
+    "message": "Redirection rapide nouvel onglet"
+  },
+  "extensionDescription": {
+    "message": "Permet de changer la page Nouvel onglet vers une URL spécifique."
+  },
+  "extensionRedirectLabel": {
+    "message": "Rediriger le nouvel onglet vers cette URL:"
+  }
+}

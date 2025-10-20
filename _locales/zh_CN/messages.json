@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "网址地址"
+  },
+  "extensionName": {
+    "message": "快速新标签重定向"
+  },
+  "extensionDescription": {
+    "message": "允许您将新标签页重定向到指定的URL。"
+  },
+  "extensionRedirectLabel": {
+    "message": "将新标签页重定向到此URL："
+  }
+}

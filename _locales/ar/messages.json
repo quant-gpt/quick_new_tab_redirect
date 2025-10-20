@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "عنوان URL"
+  },
+  "extensionName": {
+    "message": "إعادة توجيه تبويب جديد سريع"
+  },
+  "extensionDescription": {
+    "message": "يتيح لك تغيير صفحة التبويب الجديدة إلى عنوان URL محدد."
+  },
+  "extensionRedirectLabel": {
+    "message": "إعادة توجيه التبويب الجديد إلى هذا العنوان:"
+  }
+}

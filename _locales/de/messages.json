@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "URL-Adresse"
+  },
+  "extensionName": {
+    "message": "Schnelle neue Tab-Weiterleitung"
+  },
+  "extensionDescription": {
+    "message": "Ermöglicht das Ändern der neuen Tab-Seite zu einer bestimmten URL."
+  },
+  "extensionRedirectLabel": {
+    "message": "Neuen Tab zu dieser URL weiterleiten:"
+  }
+}

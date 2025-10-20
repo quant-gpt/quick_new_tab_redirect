@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "Dirección URL"
+  },
+  "extensionName": {
+    "message": "Redirección rápida de nueva pestaña"
+  },
+  "extensionDescription": {
+    "message": "Permite cambiar la página de nueva pestaña a una URL específica."
+  },
+  "extensionRedirectLabel": {
+    "message": "Redirigir nueva pestaña a esta URL:"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "यूआरएल पत्ता"
+  },
+  "extensionName": {
+    "message": "त्वरित नवीन टॅब पुनर्निर्देशन"
+  },
+  "extensionDescription": {
+    "message": "आपल्याला नवीन टॅब विशिष्ट URL वर पुनर्निर्देशित करू देते."
+  },
+  "extensionRedirectLabel": {
+    "message": "नवीन टॅब या URL वर पुनर्निर्देशित करा:"
+  }
+}

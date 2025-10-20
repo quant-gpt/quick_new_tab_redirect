@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "Indirizzo URL"
+  },
+  "extensionName": {
+    "message": "Reindirizzamento rapida nuova scheda"
+  },
+  "extensionDescription": {
+    "message": "Consente di cambiare la pagina della nuova scheda con un URL specifico."
+  },
+  "extensionRedirectLabel": {
+    "message": "Reindirizza la nuova scheda a questo URL:"
+  }
+}

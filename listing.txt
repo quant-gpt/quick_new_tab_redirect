@@ -1,0 +1,57 @@
+🚀 Quick New Tab Redirect
+
+Tired of the default Chrome new tab page? Want to instantly open your favorite dashboard, search engine, or productivity tool every time you open a new tab?
+Quick New Tab Redirect lets you take full control of your browsing experience — with blazing speed and zero clutter.
+
+🔧 What It Does
+
+Quick New Tab Redirect allows you to replace Chrome’s default new tab page with any custom URL of your choice.
+Whether it’s Google, Notion, ChatGPT, your company dashboard, or even a local HTML file — it works instantly.
+
+⚡ Why You’ll Love It
+
+Ultra Fast: Loads your chosen page in milliseconds.
+
+Clean & Lightweight: No bloat, no background scripts, no tracking.
+
+One-Time Setup: Set it once and forget it — works every time you open a new tab.
+
+Multilingual Support: Available in 15+ languages including Hindi, Marathi, Spanish, French, and more.
+
+Privacy-First: Your data stays with you. No analytics, no external calls.
+
+✨ Common Use Cases
+
+Replace new tab with:
+
+Your favorite search engine (Google, DuckDuckGo, etc.)
+
+A note-taking app (Notion, Evernote)
+
+A to-do list or calendar
+
+Your custom homepage
+
+Redirect new tab to a local file or intranet tool
+
+Set a minimalist blank page (about:blank) for focus
+
+🔒 Privacy
+
+We do not collect or store any data — ever.
+All settings stay 100% on your device.
+
+🌐 Language Support
+
+Available in:
+English, Hindi, Marathi, Spanish, French, German, Portuguese (Brazil), Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean, Arabic, Italian, Dutch, Turkish, Polish, Indonesian — with more coming soon!
+
+✅ How to Use
+
+Install the extension
+
+Open the Options page
+
+Enter your desired redirect URL
+
+Open a new tab — and boom! Your page loads instantly 🎯

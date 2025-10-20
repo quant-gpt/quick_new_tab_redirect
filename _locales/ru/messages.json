@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "URL-адрес"
+  },
+  "extensionName": {
+    "message": "Быстрая переадресация новой вкладки"
+  },
+  "extensionDescription": {
+    "message": "Позволяет изменить страницу новой вкладки на определённый URL."
+  },
+  "extensionRedirectLabel": {
+    "message": "Перенаправить новую вкладку на этот URL:"
+  }
+}

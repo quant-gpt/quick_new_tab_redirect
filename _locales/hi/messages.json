@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "यूआरएल पता"
+  },
+  "extensionName": {
+    "message": "क्विक न्यू टैब रीडायरेक्ट"
+  },
+  "extensionDescription": {
+    "message": "आपको नया टैब किसी विशेष URL पर रीडायरेक्ट करने देता है।"
+  },
+  "extensionRedirectLabel": {
+    "message": "नया टैब इस URL पर रीडायरेक्ट करें:"
+  }
+}

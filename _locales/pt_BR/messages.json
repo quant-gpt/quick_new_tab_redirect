@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "Endereço URL"
+  },
+  "extensionName": {
+    "message": "Redirecionamento Rápido de Nova Guia"
+  },
+  "extensionDescription": {
+    "message": "Permite alterar a nova guia para um URL específico."
+  },
+  "extensionRedirectLabel": {
+    "message": "Redirecionar nova guia para este URL:"
+  }
+}

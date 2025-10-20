@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "URL-adres"
+  },
+  "extensionName": {
+    "message": "Snelle nieuwe tabblad-omleiding"
+  },
+  "extensionDescription": {
+    "message": "Laat je de nieuwe tabbladpagina omleiden naar een specifieke URL."
+  },
+  "extensionRedirectLabel": {
+    "message": "Leid nieuw tabblad om naar deze URL:"
+  }
+}

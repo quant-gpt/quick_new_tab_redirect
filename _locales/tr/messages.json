@@ -1,0 +1,14 @@
+{
+  "extURL": {
+    "message": "URL adresi"
+  },
+  "extensionName": {
+    "message": "Hızlı Yeni Sekme Yönlendirme"
+  },
+  "extensionDescription": {
+    "message": "Yeni sekme sayfasını belirli bir URL'ye yönlendirmenizi sağlar."
+  },
+  "extensionRedirectLabel": {
+    "message": "Yeni sekmeyi bu URL'ye yönlendir:"
+  }
+}
