@@ -23,7 +23,6 @@ No bloat. Just open a new tab and land exactly where you want.
 | Options Page |
 |--------------|
 | ![Options](screenshots/1280_filled.png) 
-> *(You can replace the above image paths with your actual screenshots in the `/screenshots/` folder)*
 
 ---
 
