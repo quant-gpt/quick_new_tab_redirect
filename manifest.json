@@ -30,8 +30,7 @@
     "page": "res/options.html"
   },
   "permissions": [
-    "storage",
-    "tabs"
+    "storage"
   ],
   "update_url": "https://clients2.google.com/service/update2/crx",
   "version": "1.0"
